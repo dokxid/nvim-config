@@ -2,7 +2,7 @@
 -- Each highlight group can take a table with variables fg, bg, bold, italic, etc
 -- base30 variable names can also be used as colors
 
-colors = {
+local colors = {
   white = "#D9E0EE",
   darker_black = "#191828",
   black = "#1E1D2D", --  nvim bg
